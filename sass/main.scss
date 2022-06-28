@@ -1,4 +1,5 @@
 @import "./base/common";
+@import "./base/container";
 @import "./layout/header";
 @import "./components/header-logo";
 @import "./components/header-navigation";
@@ -22,8 +23,7 @@
 @import "./components/footer-newsletter";
 @import "./pages/portfolio/layout/buttons-section";
 @import "./pages/portfolio/components/navigation-buttons";
-@import "./pages/portfolio/layout/photo-list-section";
 @import "./pages/portfolio/components/portfolio-list";
 @import "./components/backdrop";
 @import "./components/modal";
-@import "./utils/visually-hiden"
+@import "./utils/visually-hiden";

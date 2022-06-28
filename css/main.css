@@ -12,6 +12,11 @@
   background-color: var(--background-color);
 }
 
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
 .header {
   border-bottom: 1px solid #ececec;
 }
@@ -21,8 +26,6 @@
   align-items: center;
   justify-content: space-between;
   height: 80px;
-  max-width: 1200px;
-  margin: 0 auto;
 }
 
 .logo {
@@ -133,8 +136,6 @@
   height: 600px;
   padding-top: 200px;
   padding-bottom: 200px;
-  max-width: 1200px;
-  margin: 0 auto;
 }
 
 .main-container__header {
@@ -172,8 +173,6 @@
 .section-lorem {
   padding-top: 94px;
   padding-bottom: 94px;
-  max-width: 1200px;
-  margin: 0 auto;
 }
 
 .paragraphs {
@@ -228,8 +227,6 @@
 .section-profession {
   padding-top: 0;
   padding-bottom: 94px;
-  max-width: 1200px;
-  margin: 0 auto;
 }
 
 .profession-images {
@@ -268,11 +265,6 @@
   background-color: #f5f4fa;
   padding-top: 94px;
   padding-bottom: 94px;
-}
-
-.section-team__container {
-  max-width: 1200px;
-  margin: 0 auto;
 }
 
 .team-photos {
@@ -354,8 +346,6 @@
 }
 
 .section-clients {
-  max-width: 1200px;
-  margin: 0 auto;
   padding-top: 94px;
   padding-bottom: 94px;
 }
@@ -391,11 +381,6 @@
 
 .footer {
   background-color: #2f303a;
-}
-
-.footer__container {
-  max-width: 1200px;
-  margin: 0 auto;
 }
 
 .footer-elements {
@@ -597,11 +582,6 @@
 
 .buttons-nav__filter--margin {
   margin-left: 8px;
-}
-
-.photo-list-container {
-  max-width: 1200px;
-  margin: 0 auto;
 }
 
 .portfolio-list {

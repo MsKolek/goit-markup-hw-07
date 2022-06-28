@@ -138,7 +138,7 @@
   padding-bottom: 200px;
 }
 
-.main-container__header {
+.main-section__header {
   font-family: var(--main-font);
   color: var(--light-text-color);
   text-align: center;
@@ -153,7 +153,7 @@
   padding-bottom: 30px;
 }
 
-.main-container__button {
+.main-section__button {
   cursor: pointer;
   background-color: var(--transition-color);
   color: var(--light-text-color);
